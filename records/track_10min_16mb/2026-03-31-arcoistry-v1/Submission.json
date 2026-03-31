@@ -1,0 +1,9 @@
+{
+  "name": "Arcoistry Efficiency v1",
+  "author": "arcoistry",
+  "github_id": "metadore",
+  "val_bpb": 1.22,
+  "bytes_total": 15950000,
+  "date": "2026-03-31",
+  "blurb": "Freshman submission utilizing Weight Tying and 3x MLP expansion to maximize parameter density."
+}
