@@ -1,7 +1,7 @@
 # Arcoistry Efficiency v1 — OpenAI Parameter Golf Submission
 
 **Track:** 10-minute training · 16 MB model limit  
-**Author:** Your Name · 1st-year B.Tech CSE, VIT  
+**Author:** arcoistry · 1st-year B.Tech CSE,   
 **Date:** 2026-03-31  
 **Placeholder BPB:** 1.22 *(to be updated after RunPod run)*
 
@@ -117,4 +117,4 @@ Requirements: `torch >= 2.1`, `numpy`.
 
 ---
 
-*Submitted with curiosity and a lot of coffee — VIT, 2026.*
+*Submitted with curiosity — 2026.*
